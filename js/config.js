@@ -4,5 +4,5 @@
  * En la demostración, dos personas cambiarán ESTA MISMA LÍNEA de manera distinta.
  */
 window.AGENDA_CONFIG = {
-  welcomeMessage: "¡Hola! Vamos a organizar tus ideas."
+  welcomeMessage: "¡Hola! Cambios realizados por Jhon"
 };
